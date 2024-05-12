@@ -1,6 +1,8 @@
-# React + Vite
+# Posts
 
-**A Small project which uses react query to add and save posts with tags.**
+A Small project which uses react query to add and save posts with tags.
+
+React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
